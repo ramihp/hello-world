@@ -1,0 +1,4 @@
+- name: Read .nvmrc
+  # You may pin to the exact commit or the version.
+  # uses: browniebroke/read-nvmrc-action@377268bc49bb9ea619bcf2e504c85805e6bab267
+  uses: browniebroke/read-nvmrc-action@v1
